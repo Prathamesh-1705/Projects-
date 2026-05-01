@@ -34,5 +34,5 @@ Welcome to my project repository where I showcase my work in Machine Learning, D
 
 ## 📬 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: your-linkedin
+* Email: [your-email@example.com](mailto:prathameshtirmare246@gmail.com)
+* LinkedIn:[ your-linkedin](https://www.linkedin.com/in/prathamesh-tirmare-52961028b/)
