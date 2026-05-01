@@ -10,7 +10,7 @@ Welcome to my project repository where I showcase my work in Machine Learning, D
 ### 🚗 EV Data Analysis
 
 * Analysis of Electric Vehicle trends and insights
-* Tech: Pandas, Matplotlib
+* Tech: Pandas, Matplotlib, Scikit-learn
   👉 [View Project](./ev-analysis)
 
 ---
@@ -18,7 +18,7 @@ Welcome to my project repository where I showcase my work in Machine Learning, D
 ### 📄 RAG Document Assistant
 
 * AI-powered document question-answering system
-* Tech: LangChain, FAISS, LLMs
+* Tech: LangChain, LLMs, APIs
   👉 [View Project](./rag-document-assistant)
 
 ---
