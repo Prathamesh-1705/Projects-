@@ -19,7 +19,7 @@ Welcome to my project repository where I showcase my work in Machine Learning, D
 
 * AI-powered document question-answering system
 * Tech: LangChain, LLMs, APIs
-  👉 [View Project](./RAG-document-assistant)
+  👉 [View Project](./RAG-Document-Assistant)
 
 ---
 
